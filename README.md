@@ -20,6 +20,11 @@ iBaihe V2.0 is a 5 relays Standalone version that use a NodeC module (a coin-siz
 iBaihe V1.0 is a arduino-compatible 5 relays shield.
 
 
+![NodeC](NODEC.jpg)
+
+[*Noduino NodeC WiFi Module*](https://www.noduino.org/products/nodec)
+
+
 The pin map of iBaihe v2.0 Board:
 
 * D3	(GPIO15)  ---> control the 5th relay
