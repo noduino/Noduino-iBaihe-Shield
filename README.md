@@ -6,7 +6,7 @@ Noduino iBaihe Board
 [*Noduino iBaihe Board - Complete iBaihe board (iBaihe V1.0)*](https://www.noduino.org/)
 
 
-![Noduino iBaihe Board V2.0](iBaihe-v2.0-layout.jpg)
+![Noduino iBaihe Board V2.0](iBaihe-v2.0-layout.png)
 
 [*Noduino iBaihe Board Bottom - Complete iBaihe board*](https://www.noduino.org/)
 
