@@ -13,7 +13,12 @@ Noduino iBaihe Board
 
 Overview
 -------------------
-Noduino iBaihe is an 5 Relays board.
+There are 5 Relays in the iBaihe board. It's designed for home automation.
+
+iBaihe V2.0 is a 5 relays Standalone version that use a NodeC module (a coin-sized ESP8285 module).
+
+iBaihe V1.0 is a arduino-compatible 5 relays shield.
+
 
 The pin map of iBaihe v2.0 Board:
 
